@@ -1,0 +1,16 @@
+C:\Users\Cascade 3.0\source\repos\RabbitMq-Topic\RabbitMq-Topic\bin\Debug\netcoreapp3.1\RabbitMq-Topic.exe
+C:\Users\Cascade 3.0\source\repos\RabbitMq-Topic\RabbitMq-Topic\bin\Debug\netcoreapp3.1\RabbitMq-Topic.deps.json
+C:\Users\Cascade 3.0\source\repos\RabbitMq-Topic\RabbitMq-Topic\bin\Debug\netcoreapp3.1\RabbitMq-Topic.runtimeconfig.json
+C:\Users\Cascade 3.0\source\repos\RabbitMq-Topic\RabbitMq-Topic\bin\Debug\netcoreapp3.1\RabbitMq-Topic.runtimeconfig.dev.json
+C:\Users\Cascade 3.0\source\repos\RabbitMq-Topic\RabbitMq-Topic\bin\Debug\netcoreapp3.1\RabbitMq-Topic.dll
+C:\Users\Cascade 3.0\source\repos\RabbitMq-Topic\RabbitMq-Topic\bin\Debug\netcoreapp3.1\RabbitMq-Topic.pdb
+C:\Users\Cascade 3.0\source\repos\RabbitMq-Topic\RabbitMq-Topic\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Cascade 3.0\source\repos\RabbitMq-Topic\RabbitMq-Topic\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Cascade 3.0\source\repos\RabbitMq-Topic\RabbitMq-Topic\obj\Debug\netcoreapp3.1\RabbitMq-Topic.csprojAssemblyReference.cache
+C:\Users\Cascade 3.0\source\repos\RabbitMq-Topic\RabbitMq-Topic\obj\Debug\netcoreapp3.1\RabbitMq-Topic.AssemblyInfoInputs.cache
+C:\Users\Cascade 3.0\source\repos\RabbitMq-Topic\RabbitMq-Topic\obj\Debug\netcoreapp3.1\RabbitMq-Topic.AssemblyInfo.cs
+C:\Users\Cascade 3.0\source\repos\RabbitMq-Topic\RabbitMq-Topic\obj\Debug\netcoreapp3.1\RabbitMq-Topic.csproj.CoreCompileInputs.cache
+C:\Users\Cascade 3.0\source\repos\RabbitMq-Topic\RabbitMq-Topic\obj\Debug\netcoreapp3.1\RabbitMq-Topic.csproj.CopyComplete
+C:\Users\Cascade 3.0\source\repos\RabbitMq-Topic\RabbitMq-Topic\obj\Debug\netcoreapp3.1\RabbitMq-Topic.dll
+C:\Users\Cascade 3.0\source\repos\RabbitMq-Topic\RabbitMq-Topic\obj\Debug\netcoreapp3.1\RabbitMq-Topic.pdb
+C:\Users\Cascade 3.0\source\repos\RabbitMq-Topic\RabbitMq-Topic\obj\Debug\netcoreapp3.1\RabbitMq-Topic.genruntimeconfig.cache

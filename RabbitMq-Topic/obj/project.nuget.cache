@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bNkaUZogMyHRyTmnNeXIR7m02V7JI90TAgWgq5qPNZSEz+oFX5YGZYxa5fAs0sm3uLMly0DxVM5GWqK5EA/1HA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cascade 3.0\\source\\repos\\RabbitMq-Topic\\RabbitMq-Topic\\RabbitMq-Topic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cascade 3.0\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\Cascade 3.0\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Cascade 3.0\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
